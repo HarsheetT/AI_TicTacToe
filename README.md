@@ -3,11 +3,14 @@ This repository implements a Tic-Tac-Toe game with an unbeatable AI opponent usi
 
 ## Features
 1.Play against a challenging AI opponent.
+<br>
 2.Minimax algorithm ensures optimal play for the AI.
+<br>
 3.Clean and well-documented code.
 
 ## Getting Started
 1.Clone the repository: git clone https://github.com/HarsheetT/AI_TicTacToe.git
+<br>
 2.Once in the directory for the project, run pip3 install -r requirements.txt to install the required Python package (pygame) for this project.
 
 ## Understanding
@@ -18,4 +21,5 @@ The Minimax algorithm explores all possible future game states by simulating eve
 
 ### Description
 Python is used as the programming language and pygame as the GUI for the game
+<br>
 This Project is a part of the CS50's Introduction to Artificial Intelligence with Python.
