@@ -11,7 +11,7 @@ This repository implements a Tic-Tac-Toe game with an unbeatable AI opponent usi
 ## Getting Started
 1.Clone the repository: git clone https://github.com/HarsheetT/AI_TicTacToe.git
 <br>
-2.Once in the directory for the project, run pip3 install -r requirements.txt to install the required Python package (pygame) for this project.
+2.Once in the directory for the project, 'run pip3 install -r requirements.txt' to install the required Python package (pygame) for this project.
 
 ## Understanding
 There are two main files in this project: runner.py and tictactoe.py. tictactoe.py contains all of the logic for playing the game, and for making optimal moves. runner.py contains all of the code to run the graphical interface for the game. 
